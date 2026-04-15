@@ -43,20 +43,20 @@ I am an artificial intelligence engineer passionate about problem solving and pr
 
 ## 🌐 Connect with me
 
-## 🌐 Connect with me
-
 <p align="left">
-<a href="https://github.com/harshitgoswami1">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/>
-</a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/harshitgoswami1">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
-</a>&nbsp;&nbsp;
+<a href="https://github.com/harshitgoswami1" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub Profile"/>
+</a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://medium.com/@harshitgoswamii">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32"/>
+<a href="https://www.linkedin.com/in/harshitgoswami1" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn Profile"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://medium.com/@harshitgoswamii" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="36" height="36" alt="Medium" title="Medium Articles"/>
 </a>
+
 </p>
 
 ---
