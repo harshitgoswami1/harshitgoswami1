@@ -9,7 +9,6 @@ I am an artificial intelligence engineer passionate about problem solving and pr
 - 🧠 Currently learning **Agentic AI, Deep Learning, Transformers, Scalable Backend Architectures**
 - 👥 Open to collaborate on **Open Source AI Projects, Full-stack Apps, AI Tools**
 
----
 
 ## 🚀 Tech Stack
 
@@ -37,11 +36,9 @@ I am an artificial intelligence engineer passionate about problem solving and pr
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="40"/>
 </p>
 
----
+
 
 ## 🌐 Connect with me
-
----
 
 <p align="left">
 <a href="https://github.com/harshitgoswami1">
@@ -57,7 +54,7 @@ I am an artificial intelligence engineer passionate about problem solving and pr
 </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -67,6 +64,6 @@ I am an artificial intelligence engineer passionate about problem solving and pr
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgoswami1&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
----
+
 
 ⭐ Always building AI-powered products and scalable systems.
