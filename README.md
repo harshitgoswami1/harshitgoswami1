@@ -35,21 +35,26 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://github.com/harshitgoswami1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+
+<a href="https://github.com/harshitgoswami1" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/harshitgoswami1" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://medium.com/harshitgoswamii" target="_blank">
+<img src="https://skillicons.dev/icons?i=md" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/harshitgswmi" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
 </a>
 
-<a href="https://linkedin.com/in/harshitgoswami1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://medium.com/harshitgoswamii" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/harshitgswmi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
 </p>
 
 ---
