@@ -9,6 +9,17 @@ I am an artificial intelligence engineer passionate about problem solving and pr
 - 🧠 Currently learning **Agentic AI, Deep Learning, Transformers, Scalable Backend Architectures**
 - 👥 Open to collaborate on **Open Source AI Projects, Full-stack Apps, AI Tools**
 
+### 📊 GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=Shrey327&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true"
+    alt="Shreyansh's Activity Graph"
+  />
+</p>
+
+---
+
 
 ## 🚀 Tech Stack
 
