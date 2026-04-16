@@ -13,8 +13,8 @@ I am an artificial intelligence engineer passionate about problem solving and pr
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=Shrey327&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true"
-    alt="Shreyansh's Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=harshitgoswami1&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true"
+    alt="Harshit's Activity Graph"
   />
 </p>
 
