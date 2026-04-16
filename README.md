@@ -20,33 +20,48 @@ I am an artificial intelligence engineer passionate about problem solving and pr
 
 ---
 
-
 ## 🚀 Tech Stack
 
+### 🛠️ Languages & Tools
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40"/>
+</p>
+
+### 🎨 Frontend
+<p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" width="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" width="40"/>
+</p>
+
+### ⚙️ Backend
+<p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="40"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40"/>
+</p>
+
+### 🤖 ML / DL
+<p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="40"/>
 </p>
-
 
 
 ## 🌐 Connect with me
